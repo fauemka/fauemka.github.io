@@ -13,3 +13,6 @@ Hier bitte bei Gelegenheit die Beschreibung des Charakters einfügen.
 Hier bitte bei Gelegenheit die Beschreibung des Charakters einfügen!
 Hier bitte bei Gelegenheit die Beschreibung des Charakters einfügen.
 Hier bitte bei Gelegenheit die Beschreibung des Charakters einfügen!
+
+Wie irgendwer sagte:
+> Hier interessantes Zitat einfügen.
